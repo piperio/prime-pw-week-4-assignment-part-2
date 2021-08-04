@@ -1,0 +1,30 @@
+header {
+  background-color: violet
+}
+.info {
+  color: navy;
+}
+
+.info {
+  background-color: pink;
+}
+
+h3 {
+  background-color:gold;
+}
+h3
+{
+  color: green;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+img {
+  border-radius: 5%;
+  border: 5px solid blue;
+}
